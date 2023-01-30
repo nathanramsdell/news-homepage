@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://news-homepage.natanramsdell.com)
 Explore this news homepage
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,6 +147,6 @@ Project Link: [https://github.com/nathanramsdell/news-homepage](https://github.c
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/nathanramsdell
-[product-screenshot]: /public/news-homepage-preview.png
+[product-screenshot]: /news-homepage.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
